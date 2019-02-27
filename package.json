@@ -1,6 +1,6 @@
 {
   "name": "mass-sass",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple interactive CLI, for compiling all SCSS files in a given folder, via node-sass (way faster than the original ruby build)",
   "main": "index.js",
   "scripts": {
