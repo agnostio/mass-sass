@@ -1,0 +1,26 @@
+{
+  "name": "mass-sass",
+  "version": "1.0.3",
+  "description": "A simple interactive CLI, for compiling all SCSS files in a given folder, via node-sass (way faster than the original ruby build)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "bin": {
+    "msass": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "funccon": "^2.0.0",
+    "funcseq": "^2.0.0",
+    "inquirer": "^3.0.6",
+    "inquirer-select-directory": "^1.0.2",
+    "lodash": "^4.17.4",
+    "node-sass": "^4.11.0",
+    "node-watch": "^0.5.4",
+    "x-con": "^1.0.2",
+    "xcolor": "^0.1.0"
+  },
+  "devDependencies": {}
+}

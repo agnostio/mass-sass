@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "true",
+	"sources": [
+		"test/test/bar copy 2.scss"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,IAAI,AAAC,CACH,UAAU,CAAE,IAAI,CAChB,aAAa,CAAC,IAAI,CAInB,AAND,AAGE,IAHE,CAGF,IAAI,AAAC,CACH,WAAW,CAAE,IAAI,CAClB"
+}
